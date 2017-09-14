@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7B0764C9219F4E1C9825EF35CA3F4D236B8EAF52",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7B0764C9219F4E1C9825EF35CA3F4D236B8EAF52" : 9223372036854775807,
+    "3A33CE56CFEFC32D3A747022DE75964B6925A9A6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C82C2ABE-1EC0-488A-9C34-7F403BB651EB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7B0764C9219F4E1C9825EF35CA3F4D236B8EAF52" : "MyWeatherApp\/",
+    "3A33CE56CFEFC32D3A747022DE75964B6925A9A6" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftWeather",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftWeather.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/EddyVerbruggen\/nativescript-fingerprint-auth.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3A33CE56CFEFC32D3A747022DE75964B6925A9A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/brianadvent\/WeatherApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B0764C9219F4E1C9825EF35CA3F4D236B8EAF52"
+    }
+  ]
+}
